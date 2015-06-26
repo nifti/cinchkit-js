@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nifti/cinchkit-js",
   "dependencies": {
+    "async": "^1.2.1",
     "hoek": "^2.14.0",
     "lodash": "^3.9.3",
     "request": "^2.57.0"
