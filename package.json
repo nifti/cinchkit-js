@@ -11,13 +11,7 @@
     "test": "make test"
   },
   "engines": {
-    "node": ">=4.2.2"
-  },
-  "devDependencies": {
-    "code": "^2.1.0",
-    "jshint": "^2.9.1",
-    "jshint-stylish": "^2.1.0",
-    "lab": "^8.2.0"
+    "node": ">=4.3.0"
   },
   "dependencies": {
     "async": "^1.2.1",
@@ -27,5 +21,11 @@
     "lodash": "^3.9.3",
     "omit-empty": "^0.3.1",
     "request": "^2.57.0"
+  },
+  "devDependencies": {
+    "code": "^2.1.0",
+    "jshint": "^2.9.1",
+    "jshint-stylish": "^2.1.0",
+    "lab": "^8.2.0"
   }
 }
